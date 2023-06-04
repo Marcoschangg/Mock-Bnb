@@ -1,2 +1,3 @@
-# bnb
-thinkful bnb
+# MOCK AIRBNB WEBSITE
+
+thinkful project
